@@ -12,7 +12,7 @@ pyautogui.press("enter")
 
 pyautogui.alert("Don't touch anything. The messages triggers will start in a few secs automatically.")
 
-links = ["https://t.me/jaxrosil", "https://t.me/Souza_Gabriel"]
+links = ["https://t.me/jaxrosil", "https://t.me/Souza_Gabriel"] #replace here the recipients
 mensagem = "This message has been sent with a bot created by Jax. Say >>Hi, Bot!<<"
 for link in links:
     pyautogui.hotkey('ctrl', 't')
