@@ -13,3 +13,7 @@ The following packages are required to the bot running:
 ```
 You can run it directly from jupyter-notebook/collab or your can run it in your terminal by taking of the exclamation points.
 It is also important to mention that your computer should preferably be with IDEL screen open only.
+
+Check on a preview of how it works:
+
+[![Watch the video](https://img.youtube.com/vi/YwaYRDC6q_M/maxresdefault.jpg)](https://youtu.be/YwaYRDC6q_M)
