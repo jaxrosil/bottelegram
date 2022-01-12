@@ -1,5 +1,5 @@
 # bottelegram
-Bot to automatically message sending through telegram.
+Bot to automatic message sending through telegram.
 - you need to be logged in your telegram account on your webrowser;
 - your operating system must be Windows;
 - your browser must be Chrome, though it's not difficult to do the due code modifications
@@ -12,4 +12,4 @@ The following packages are required to the bot running:
 !pip install pyperclip
 ```
 You can run it directly from jupyter-notebook/collab or your can run it in your terminal by taking of the exclamation points.
-It is also important to mention that your computer should preferably be with ipython screen open only.
+It is also important to mention that your computer should preferably be with IDEL screen open only.
