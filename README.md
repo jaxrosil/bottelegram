@@ -1,5 +1,5 @@
 # bottelegram
-Bot to automatically message sending through telegram.
+Bot to automatical message sending through telegram.
 - you need to be logged in your telegram account on your webrowser;
 - your operating system must be Windows;
 - your browser must be Chrome, though it's not difficult to do the due code modifications
