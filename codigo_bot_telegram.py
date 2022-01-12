@@ -13,7 +13,7 @@ pyautogui.press("enter")
 pyautogui.alert("Don't touch anything. The messages triggers will start in a few secs automatically.")
 
 links = ["https://t.me/jaxrosil", "https://t.me/Souza_Gabriel"]
-mensagem = "Esta mensagem está sendo enviada pelo Bot do Jax. Diga >>Olá, Bot do Jax!<<"
+mensagem = "This message has been sent with a bot created by Jax. Say >>Hi, Bot!<<"
 for link in links:
     pyautogui.hotkey('ctrl', 't')
     pyperclip.copy(link)
