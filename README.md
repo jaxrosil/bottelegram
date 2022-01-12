@@ -12,7 +12,7 @@ The following packages are required to run the bot:
 !pip install pyperclip
 ```
 You can run it directly from jupyter-notebook/collab or you can run it in your terminal by taking of the exclamation points.
-It is also important to mention your computer should preferably be with your IDEL screen open only.
+It is also important to mention your computer should preferably be with your IDLE screen open only.
 
 Check on a preview of how it works (click on the image):
 
